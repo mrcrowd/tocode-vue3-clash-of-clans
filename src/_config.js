@@ -1,9 +1,5 @@
-export const process = {
-  dev: true
-}
-
 export const app = {
-  title: 'Template Vue'
+  title: 'Clash of Clans'
 }
 
 export const links = [
